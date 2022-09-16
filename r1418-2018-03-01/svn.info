@@ -1,0 +1,15 @@
+Path: .
+URL: svn://10.10.67.238:36901/svn/Router/TR4400v2/TR4400v2_0419b/Source
+Repository Root: svn://10.10.67.238:36901/svn/Router/TR4400v2
+Repository UUID: a6b6dc33-2ea1-44c0-8bf5-3169134277e6
+Revision: 1418
+Node Kind: directory
+Schedule: normal
+Last Changed Author: sandy
+Last Changed Rev: 1418
+Last Changed Date: 2018-03-01 16:54:42 +0800 (Thu, 01 Mar 2018)
+
+VERSION:
+Build from: sercomm-QCA-Server /home2/mark/TR4400v2_0419b_0301/Source by mark
+DATE: Thu Mar 1 17:10:58 CST 2018
+BOARD_ID: TR4400-CH
