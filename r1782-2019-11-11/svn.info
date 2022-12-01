@@ -1,0 +1,15 @@
+Path: .
+URL: svn://10.10.67.238:36901/svn/Router/TR4400v2/TR4400v2_0719/Source
+Repository Root: svn://10.10.67.238:36901/svn/Router/TR4400v2
+Repository UUID: a6b6dc33-2ea1-44c0-8bf5-3169134277e6
+Revision: 1782
+Node Kind: directory
+Schedule: normal
+Last Changed Author: lucien
+Last Changed Rev: 1782
+Last Changed Date: 2019-08-05 10:19:11 +0800 (Mon, 05 Aug 2019)
+
+VERSION:
+Build from: PD1-build01 /home/rdrelease/TR4400v2/TR4400v2_0719_191108/Source by rdrelease
+DATE: Mon Nov 11 10:44:03 CST 2019
+BOARD_ID: TR4400-CH
